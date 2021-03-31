@@ -1,7 +1,8 @@
 `vahdet` is
 
 - 🔭 currently working on:
-  - Progressive Web Applications, 
+  - Progressive Web Applications,
+  - Spring Boot + Spring Cloud + Jib,
   - as-serverless-as-possible cloud computing and resources,
   - IaC
 - 🌱 currently learning how to run NLP classifications on the fly
