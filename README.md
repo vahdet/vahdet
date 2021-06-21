@@ -3,8 +3,8 @@
 - 🔭 currently working on:
   - Progressive Web Applications,
   - Spring Boot + Spring Cloud + Jib,
-  - as-serverless-as-possible cloud computing and resources,
-  - IaC
+  - NodeJS,
+  - pet projects on as-serverless-as-possible cloud resources
 - 🌱 currently learning how to run NLP classifications on the fly
 - 👯 looking to collaborate on Python, JS, Go libraries.
 
