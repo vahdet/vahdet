@@ -1,10 +1,10 @@
 `vahdet` is
 
 - 🔭 currently working on:
-  - progressive web apps,
-  - Go & Node/Typescript on backend,
+  - progressive web apps & distributed systems,
+  - Go & Node,
   - pet projects on as-serverless-as-possible cloud resources,
-- 🌱 currently learning KrakenD, Keycloak, Helm for API Gateway/BFF solution before a fully Kubernetes-managed deployments,
+- 🌱 currently learning KrakenD, Keycloak, event sourcing,
 - 👯 looking to collaborate on Python, JS, Go libraries.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
