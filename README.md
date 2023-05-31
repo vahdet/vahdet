@@ -2,9 +2,9 @@
 
 - 🔭 currently working on:
   - progressive web apps & distributed systems,
-  - Go & Node,
-  - pet projects on as-serverless-as-possible cloud resources,
-- 🌱 currently learning KrakenD, Keycloak, event sourcing,
+  - Go & Kotlin,
+  - pet projects on fully managed cloud resources,
+- 🌱 currently learning KrakenD, event sourcing,
 - 👯 looking to collaborate on Python, JS, Go libraries.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
